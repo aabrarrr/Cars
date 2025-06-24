@@ -1,3 +1,2 @@
 flask
-ultralytics
-torch
+ultralytics[core]
