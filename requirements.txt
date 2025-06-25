@@ -1,2 +1,4 @@
-flask
-ultralytics[core]
+flask==2.3.2
+ultralytics==8.0.192
+torch==2.2.0
+opencv-python-headless==4.8.0.74
